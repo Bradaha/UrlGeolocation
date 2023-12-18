@@ -9,3 +9,5 @@ print(f"IP: {ip}")
 print(f"City: {response.city}")
 print(f"Region: {response.region}")
 print(f"Country: {response.country}")
+
+k=input("press close to exit")
